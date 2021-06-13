@@ -1,5 +1,24 @@
 # Data_Visualization
 
+## Plotly
+1. PC01_Plotly Plot & Scatter Matrix
+2. PC02_Plotly
+3. PC03_Plotly
+4. PC04_Plotly
+5. PC05_Plotly
+6. PC06_Plotly
+7. PC07_Plotly
+8. PC08_Plotly
+9. PC09_Plotly
+10. PC10_Plotly
+11. PC11_Plotly
+12. PC12_Plotly
+13. PC13_Plotly
+14. PC14_Plotly
+15. PC15_Plotly
+16. PC16_Plotly
+17. PC17_Plotly
+18. PC18_Plotly
 ## Matplotlib
 
 1. M01_Matplotlib Line_Style & Color
