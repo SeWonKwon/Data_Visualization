@@ -1,4 +1,15 @@
 # Data_Visualization
+## Seaborn
+1. L00_DatasetLIst for Seaborn
+1. L00_Seaborn
+2. L01_Seaborn_Scatter & Line Plot
+3. L02_Seaborn_Categorical Data
+4. L03_Seaborn_Distribution Visualization
+5. L04_Seaborn_Visualizing Linear Relationships
+6. L05_Seaborn_Multiple Plot Grid
+7. L06_Seaborn_Controlling figure aesthetics & Pallette
+
+
 
 ## Plotly
 1. PC01_Plotly Plot & Scatter Matrix
