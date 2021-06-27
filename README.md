@@ -13,23 +13,20 @@
 
 ## Plotly
 1. PC01_Plotly Plot & Scatter Matrix
-2. PC02_Plotly
-3. PC03_Plotly
-4. PC04_Plotly
-5. PC05_Plotly
-6. PC06_Plotly
-7. PC07_Plotly
-8. PC08_Plotly
-9. PC09_Plotly
-10. PC10_Plotly
-11. PC11_Plotly
-12. PC12_Plotly
-13. PC13_Plotly
-14. PC14_Plotly
-15. PC15_Plotly
-16. PC16_Plotly
-17. PC17_Plotly
-18. PC18_Plotly
+2. PC02_Plotly Line Plot
+3. PC03_Plotly Time Series
+4. PC04_Plotly Area Plot
+5. PC05_Plotly Bar Charts & Error Bar
+6. PC06_Plotly Box & Violin Plot
+7. PC07_Plotly Histogram
+8. PC08_Plotly Distribution Plot
+9. PC09_Plotly Heatmaps
+10. PC10_Plotly Parallel Diagram & Dendrograms
+11. PC11_Plotly 3D Charts
+12. PC12_Plotly 기타 Charts 정리중
+13. PS00_Plotly_Controlling figure,Label, Tick, space, Axes, Legends, Multiple and so on
+
+
 ## Matplotlib
 
 1. M01_Matplotlib Line_Style & Color
