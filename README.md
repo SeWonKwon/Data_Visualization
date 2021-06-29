@@ -1,4 +1,7 @@
 # Data_Visualization
+![ㅇㅇ](https://m.blog.naver.com/hsm170/221486166263?view=img_2)
+
+## Gapminder
 <div> <img src='https://user-images.githubusercontent.com/73154316/123757971-7406ef80-d8f9-11eb-9cb1-71162fe60741.gif' /> </div>
 
 [gapminder](https://www.gapminder.org/)
