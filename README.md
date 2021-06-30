@@ -55,6 +55,7 @@
 18. M17_Matplotlib Pie Chart
 19. M18_Matplotlib Radar Chart & Sankey Diagram
 20. M19_Matplotlib Three-Dimensional Plotting
+21. M20_Matplotlib Confusion Matrix chart & ROC_Curve
 
 ## Folium
 1. F01_Folium Tiles & Markers
