@@ -1,5 +1,4 @@
-- [ ] check che
-
+- [x] check che'
 
 
 # Data_Visualization
