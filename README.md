@@ -29,9 +29,10 @@
 8. PC08_Plotly Distribution Plot
 9. PC09_Plotly Heatmaps
 10. PC10_Plotly Parallel Diagram & Dendrograms
-11. PC11_Plotly 3D Charts
-12. PC12_Plotly 기타 Charts 정리중
-13. PS00_Plotly_Controlling figure,Label, Tick, space, Axes, Legends, Multiple and so on
+11. PC11_Plotly Map
+12. PC12_Plotly 3D Charts
+13. PC13_Plotly 기타 Charts 정리중
+14. PS00_Plotly_Controlling figure,Label, Tick, space, Axes, Legends, Multiple and so on
 
 
 ## Matplotlib
