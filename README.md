@@ -1,6 +1,13 @@
 # Data_Visualization
 ![백문이불여일견](https://user-images.githubusercontent.com/73154316/123759406-d2809d80-d8fa-11eb-97cc-da511b35b6cb.png)
 
+## 
+1.DV for EDA
+2.DV for Metrics and Modeling
+3.DV for story & Finals
+
+
+
 ## Gapminder
 <div> <img src='https://user-images.githubusercontent.com/73154316/123757971-7406ef80-d8f9-11eb-9cb1-71162fe60741.gif' /> </div>
 
