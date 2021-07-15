@@ -15,10 +15,15 @@ Data Visualization 레파지토리는 각종 python 라이브러리 활용뿐만
 시각화의 기본적인 원리와 위의 3가지 목적에 맞는 코드를 정리하여 활용하는데 있습니다. 
 
 
-## 
-1. DV for EDA
-2. DV for Metrics and Modeling
-3. DV for story & Finals
+
+## **A.** DV for EDA
+1. A01_DV
+
+## **B.** DV for Metrics and Modeling
+1. B01_DV
+
+## **C.** DV for story & Finals
+1. C01_DV
 
 
 
