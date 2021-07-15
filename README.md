@@ -1,6 +1,18 @@
 # Data_Visualization
 ![백문이불여일견](https://user-images.githubusercontent.com/73154316/123759406-d2809d80-d8fa-11eb-97cc-da511b35b6cb.png)
 
+<div>
+데이타를 시각화 하는 과정은 단순하게 자료에 의미를 부여하는 작업입니다. <br/>
+데이타 사이언티스에게 필요한 필수 능력중 하나로, 단지 자료를 시각적으로 표현하는 것뿐만 아니라 다음과 같이 3가지로 활용 할수 있습니다. 
+</div>
+
+1. EDA를 위해 활용하고, 데이터의 특징을 찾아 낸다.
+2. 모델의 결과를 분석하고, 비교하여 최종 선택을 한다.
+3. 분석한 데이터에 스토리를 불어 넣어 전달한다. 
+
+Data Visualization 레파지토리는 각종 python 라이브러리 활용뿐만 아니라, 시각화의 기본적인 원리와 위의 3가지 목적에 맞는 코드를 정리하여 활용하는데 있습니다. 
+
+
 ## 
 1. DV for EDA
 2. DV for Metrics and Modeling
@@ -12,6 +24,15 @@
 <div> <img src='https://user-images.githubusercontent.com/73154316/123757971-7406ef80-d8f9-11eb-9cb1-71162fe60741.gif' /> </div>
 
 [gapminder](https://www.gapminder.org/)
+
+
+
+
+
+
+
+
+
 
 ## Seaborn
 1. L00_DatasetLIst for Seaborn
