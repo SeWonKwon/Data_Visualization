@@ -7,6 +7,7 @@
 </div>
 <br/>
 
+
 1. EDA를 위해 활용하고, 데이터의 특징을 찾아 낸다.(DV for EDA)
 2. 모델의 결과를 분석하고, 비교하여 최종 선택을 한다.(DV for Metrics and Modeling)
 3. 분석한 데이터에 스토리를 불어 넣어 전달한다. (DV for story & Finals)
@@ -14,7 +15,9 @@
 Data Visualization 레파지토리는 각종 python 라이브러리 활용뿐만 아니라,<br/>
 시각화의 기본적인 원리와 위의 3가지 목적에 맞는 코드를 정리하여 활용하는데 있습니다. 
 
+
 * [시각화의 개념과 역사](https://github.com/SeWonKwon/Data_Visualization/blob/main/Theory_of_DV/L01_Data%20Visualization%20Concept%20%26%20History%20.ipynb)
+
 
 * [우리는 어떤 차트를 사용해야 할까?](https://github.com/SeWonKwon/Data_Visualization/blob/main/Theory_of_DV/L02_Data%20Visualization%20Which%20Chart%20should%20i%20use.ipynb)
 
@@ -41,8 +44,9 @@ Data Visualization 레파지토리는 각종 python 라이브러리 활용뿐만
 
 
 ## Theory of Data Visualization
-1. L01_Data Visualization Concept & History 
+1. L01_Data Visualization Concept & History
 2. L02_Data Visualization Which Chart should i use
+3. 
 
 
 
@@ -56,6 +60,7 @@ Data Visualization 레파지토리는 각종 python 라이브러리 활용뿐만
 5. L04_Seaborn_Visualizing Linear Relationships
 6. L05_Seaborn_Multiple Plot Grid
 7. L06_Seaborn_Controlling figure aesthetics & Pallette
+8. 
 
 
 
@@ -74,6 +79,7 @@ Data Visualization 레파지토리는 각종 python 라이브러리 활용뿐만
 12. PC12_Plotly 3D Charts
 13. PC13_Plotly 기타 Charts 정리중
 14. PS00_Plotly_Controlling figure,Label, Tick, space, Axes, Legends, Multiple and so on
+15. 
 
 
 ## Matplotlib
