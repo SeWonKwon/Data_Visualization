@@ -22,7 +22,7 @@ Data Visualization 레파지토리는 각종 python 라이브러리 활용뿐만
 * [우리는 어떤 차트를 사용해야 할까?](https://github.com/SeWonKwon/Data_Visualization/blob/main/Theory_of_DV/L02_Data%20Visualization%20Which%20Chart%20should%20i%20use.ipynb)
 
 
-'''
+<!--
 ## **A.** DV for EDA
 1. A01_DV
 
@@ -31,7 +31,7 @@ Data Visualization 레파지토리는 각종 python 라이브러리 활용뿐만
 
 ## **C.** DV for story & Finals
 1. C01_DV
-'''
+-->
 
 
 ## Gapminder
